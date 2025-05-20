@@ -66,8 +66,6 @@ public class Persona {
             return edad;
     }
 
-
-
 }
 
 
