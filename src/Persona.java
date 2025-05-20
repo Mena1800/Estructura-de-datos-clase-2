@@ -56,15 +56,15 @@ public class Persona {
 //    metodo getter: permiten obtener los valores de los atributos de forma controlada
 
 
-    public String getNombre()
-    {
-        return nombre;// retornar nombre
-    }
-
-    public int getEdad()
-    {
-            return edad;
-    }
+//    public String getNombre()
+//    {
+//        return nombre;// retornar nombre
+//    }
+//
+//    public int getEdad()
+//    {
+//            return edad;
+//    }
 
 }
 
